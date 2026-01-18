@@ -45,7 +45,21 @@ Built robust automation frameworks for global e-commerce infrastructure.
 
 ### Education
 **Beijing University of Posts and Telecommunications (BUPT)**
-*Bachelor of Science*
+*Bachelor & Master of Computer Science*
+
+---
+
+### Featured Projects
+
+**[DeepPulse: AI-Powered ECG Assistant](https://github.com/graceliying82/DeepPulse)**
+*Python, Streamlit, Google Gemini 3, PhysioNet*
+> An advanced educational platform democratizing access to expert-level ECG interpretation. Combines medical signal processing with multimodal AI to act as an interactive tutor for cardiology enthusiasts.
+> - **Highlights:** High-fidelity 12-lead ECG rendering, AI reasoning engine (v3), and interactive diagnostic quizzes.
+
+**[EGM Edu Platform](https://github.com/graceliying82/egm-edu-platform)**
+*Next.js, TypeScript, Canvas API*
+> A modern web-based platform for visualizing and explaining intracardiac electrograms (EGMs).
+> - **Highlights:** Real-time canvas rendering of signal data, interactive calipers, and a dark-mode clinical aesthetic.
 
 ---
 
