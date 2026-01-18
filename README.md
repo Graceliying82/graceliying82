@@ -56,10 +56,10 @@ Built robust automation frameworks for global e-commerce infrastructure.
 > An advanced educational platform democratizing access to expert-level ECG interpretation. Combines medical signal processing with multimodal AI to act as an interactive tutor for cardiology enthusiasts.
 > - **Highlights:** High-fidelity 12-lead ECG rendering, AI reasoning engine (v3), and interactive diagnostic quizzes.
 
-**[EGM Edu Platform](https://github.com/graceliying82/egm-edu-platform)**
-*Next.js, TypeScript, Canvas API*
-> A modern web-based platform for visualizing and explaining intracardiac electrograms (EGMs).
-> - **Highlights:** Real-time canvas rendering of signal data, interactive calipers, and a dark-mode clinical aesthetic.
+**[myEIT 3D Simulator](https://github.com/graceliying82/myEIT)**
+*Python, pyEIT, VisPy, PyQt6*
+> A 3D Electrical Impedance Tomography (EIT) simulator for visualizing electric field interactions with a moving catheter.
+> - **Highlights:** Real-time FEM solver, 3D catheter tracking (twist/tilt), and interactive heart shell visualization.
 
 ---
 
