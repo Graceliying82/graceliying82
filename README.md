@@ -1,6 +1,7 @@
 # Grace Li
 ### Principal Software Test Automation Engineer | Robotics & Life Sciences
 📍 Westford, Massachusetts, United States
+🌐 **[Visit My Technical Blog](https://graceliying82.github.io/)**
 
 ---
 
