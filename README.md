@@ -66,7 +66,7 @@ Built robust automation frameworks for global e-commerce infrastructure.
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-*Currently building something awesome...*
+1. 🎉 Merged PR [#1](https://github.com/Graceliying82/graceliying82.github.io/pull/1) in [Graceliying82/graceliying82.github.io](https://github.com/Graceliying82/graceliying82.github.io)
 <!--END_SECTION:activity-->
 
 ---
