@@ -66,7 +66,7 @@ Built robust automation frameworks for global e-commerce infrastructure.
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Graceliying82/DeepPulse/pull/12) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
+1. 🗣 Commented on [#13](https://github.com/Graceliying82/DeepPulse/pull/13#issuecomment-3865995111) in [Graceliying82/DeepPulse](https://github.com/Graceliying82/DeepPulse)
 <!--END_SECTION:activity-->
 
 ---
