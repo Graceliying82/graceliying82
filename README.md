@@ -66,7 +66,7 @@ Built robust automation frameworks for global e-commerce infrastructure.
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Graceliying82/ml_playground/pull/2) in [Graceliying82/ml_playground](https://github.com/Graceliying82/ml_playground)
+1. 🎉 Merged PR [#1](https://github.com/Graceliying82/dataToDiagram/pull/1) in [Graceliying82/dataToDiagram](https://github.com/Graceliying82/dataToDiagram)
 <!--END_SECTION:activity-->
 
 ---
