@@ -14,26 +14,6 @@ I am also the holder of **3 patents**, including innovations in touch screen int
 
 ---
 
-### Professional Experience
-
-**Boston Scientific** | Principal Software Test Automation Engineer
-*Jan 2025 - Present*
-Leading software test automation strategies for next-generation medical technologies.
-
-**Symbotic** | Software Engineer
-*May 2024 - Jan 2025*
-Developed complex software solutions for massive-scale robotic warehouse automation.
-
-**Walmart Advanced Systems & Robotics** | Software Engineer
-*Oct 2023 - May 2024*
-Contributed to the engineering of advanced supply chain robotics systems.
-
-**Shopify** | Software Automation Engineer
-*2022 - 2023*
-Built robust automation frameworks for global e-commerce infrastructure.
-
----
-
 ### Technical Expertise
 
 | Domain | Skills |
