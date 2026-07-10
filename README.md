@@ -1,6 +1,7 @@
 # Grace Li
 ### Principal Software Test Automation Engineer | Robotics & Life Sciences
 📍 Massachusetts, United States
+✅ U.S. Permanent Resident (Green Card Holder) — No visa sponsorship required
 🌐 **[Visit My Technical Blog](https://graceliying82.github.io/)**
 
 ---
